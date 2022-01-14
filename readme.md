@@ -1,0 +1,5 @@
+Lenove S41-70
+
+CPU: i3-4030U
+MEM: 4G
+GPU
